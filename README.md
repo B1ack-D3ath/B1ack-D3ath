@@ -22,4 +22,3 @@ A passionate Web3 developer from Türkiye
 ### GitHub Stats:
 ![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1ack-D3ath&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1ack-D3ath&layout=compact&theme=radical)
---->
