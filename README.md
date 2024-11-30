@@ -11,8 +11,7 @@ A passionate Computer Engineering student from Türkiye
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammed-eyüp-doğru-305289223)  
 
 ### Languages:  
-![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=c%2B%2B)  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=c%2B%2B)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-05122A?style=flat&logo=dot-net)  
